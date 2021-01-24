@@ -15,7 +15,7 @@ $data = json_decode($output, true);
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NewsToday!</title>
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 
 </head>
@@ -74,5 +74,5 @@ $data = json_decode($output, true);
     <p>By Muhammad Irsyad Havari 217280056 - Informatika B</p>
   </footer>
 
-  <script src="./script.js"></script>
+  <script src="script.js"></script>
 </body>
