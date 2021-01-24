@@ -74,5 +74,5 @@ $data = json_decode($output, true);
     <p>By Muhammad Irsyad Havari 217280056 - Informatika B</p>
   </footer>
 
-  <script src="./script.js"></script>
+  <script src="script.js"></script>
 </body>
